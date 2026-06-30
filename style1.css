@@ -1,0 +1,10 @@
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+.duyumash {
+  width: 50%;
+  height: 50%;
+  background-color: brown;
+}

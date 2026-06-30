@@ -26,19 +26,6 @@ body {
   text-decoration: none;
   color: black;
 }
-.asosiy01 {
-  margin-top: 1vh;
-  width: 91vw;
-  height: 50vh;
-  background-image: url(./01.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-
-  padding: 7vh;
-}
 h1 {
   font-size: 4vh;
   margin: 0px;
@@ -60,6 +47,18 @@ button:hover {
   background-color: blue;
   color: azure;
 }
+.asosiy01 {
+  margin-top: 1vh;
+  width: 91vw;
+  height: 50vh;
+  background-image: url(./01.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 7vh;
+}
 
 .asosiy02 {
   margin-top: 1vh;
@@ -67,11 +66,11 @@ button:hover {
   height: 50vh;
   background-image: url(./02.png);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100%;
+  background-position: center;
   display: flex;
   flex-direction: column;
   align-items: center;
-
   padding: 7vh;
 }
 
@@ -85,7 +84,6 @@ button:hover {
   display: flex;
   flex-direction: column;
   align-items: center;
-
   padding: 7vh;
 }
 .bannerX2 {
@@ -94,10 +92,10 @@ button:hover {
 .banner1 {
   margin: 1vh;
   width: 50%;
-  height: 45vh;
+  height: 60vh;
   background-image: url(./04.png);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100%;
   background-position: center;
   display: flex;
   flex-direction: column;
@@ -107,10 +105,10 @@ button:hover {
 .banner2 {
   margin: 1vh;
   width: 50%;
-  height: 45vh;
+  height: 60vh;
   background-image: url(./05.png);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100%;
   background-position: center;
   display: flex;
   flex-direction: column;
@@ -122,7 +120,7 @@ button:hover {
 .banner3 {
   margin: 1vh;
   width: 50%;
-  height: 45vh;
+  height: 60vh;
   background-image: url(./06.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -137,7 +135,7 @@ button:hover {
 .banner4 {
   margin: 1vh;
   width: 50%;
-  height: 45vh;
+  height: 60vh;
   background-image: url(./07.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -150,7 +148,7 @@ button:hover {
 .banner5 {
   margin: 1vh;
   width: 50%;
-  height: 55vh;
+  height: 60vh;
   background-image: url(./08.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -162,7 +160,7 @@ button:hover {
 .banner6 {
   margin: 1vh;
   width: 50%;
-  height: 55vh;
+  height: 60vh;
   background-image: url(./09.png);
   background-repeat: no-repeat;
   background-size: cover;
