@@ -4,7 +4,6 @@ body {
   display: flex;
 }
 .rost {
-  background-color: red;
   width: 60vw;
   height: 100vh;
   display: flex;
@@ -17,7 +16,8 @@ body {
   height: 100vh;
 }
 .logo {
-  background-color: white;
+  background-image: url(./insta.png);
+  background-size: contain;
   width: 8vw;
   height: 15vh;
   margin: 20px;
