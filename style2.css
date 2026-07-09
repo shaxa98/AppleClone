@@ -11,28 +11,30 @@ body {
   justify-content: space-between;
 }
 .chap {
-  background-color: blue;
+  border-left: 1px solid black;
   width: 40vw;
   height: 100vh;
 }
 .logo {
   background-image: url(./insta.png);
   background-size: contain;
+  background-repeat: no-repeat;
   width: 8vw;
   height: 15vh;
   margin: 20px;
 }
 .pastangirasm {
-  background-color: white;
-  width: 30vw;
-  height: 40vh;
+  background-image: url(./123.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 40vw;
+  height: 60vh;
 }
 .pastash {
-  background-color: rgb(105, 96, 96);
   display: flex;
   flex-direction: column;
   align-items: center;
-  height: 70vh;
+  height: 90vh;
 }
 .chap {
   display: flex;
@@ -46,9 +48,23 @@ body {
   height: 20%;
   margin: 2%;
   border-radius: 50px;
+  border: 1px solid rgb(230, 230, 230);
 }
 .joy {
   height: 40%;
   width: 100%;
-  background-color: black;
+}
+.yozuv {
+  text-align: center;
+  font-size: 3vh;
+  color: blueviolet;
+}
+.btn1 input {
+  width: 100%;
+  height: 100%;
+  border-radius: 50px;
+}
+.btn1 input::placeholder {
+  text-align: center;
+  font-size: x-large;
 }
