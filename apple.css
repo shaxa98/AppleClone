@@ -19,11 +19,29 @@
     "Open Sans",
     "Helvetica Neue",
     sans-serif;
+  margin-top: 1vh;
 }
 .logo {
-  width: 2vw;
-  height: 2vh;
+  width: 3vw;
+  height: 3vh;
   background-image: url(./images.png);
   background-repeat: no-repeat;
   background-size: contain;
+}
+.search {
+  width: 3vw;
+  height: 3vh;
+  background-image: url(./search.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.shopbox {
+  width: 3vw;
+  height: 3vh;
+  background-image: url(./Shop.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.Navbar div {
+  margin-top: 1vh;
 }
