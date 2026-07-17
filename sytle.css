@@ -43,6 +43,10 @@ button {
   margin: 1vh;
   font-size: 2vh;
 }
+.Shaxzod {
+  background-color: rgb(30, 12, 233);
+  color: aliceblue;
+}
 button:hover {
   background-color: blue;
   color: azure;
