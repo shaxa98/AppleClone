@@ -1,0 +1,21 @@
+.dutagi {
+  background-color: aqua;
+  width: 100vw;
+  height: 80vh;
+  display: flex;
+}
+.dutagi div {
+  width: 50vw;
+  height: 100%;
+  margin: 0.5vh;
+}
+.birinchi {
+  background-image: url(./04.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.ikkinchi {
+  background-image: url(./05.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
