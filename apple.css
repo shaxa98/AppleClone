@@ -108,7 +108,7 @@ button {
 }
 .dutagi {
   width: 100vw;
-  height: 60vh;
+  height: 75vh;
 
   display: flex;
 }
@@ -117,8 +117,23 @@ button {
   height: 100%;
   margin: 0.5vh;
 }
+.turtinchi {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-image: url(./07.png);
+  background-size: contain;
+}
+.turtinchi .buttons {
+  margin-left: 30vw;
+}
 .beshinchi {
   display: flex;
   align-items: center;
   flex-direction: column;
+  background-image: url(./04.png);
+  background-size: contain;
+}
+.beshinchi .buttons {
+  margin-left: 30vw;
 }
