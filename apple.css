@@ -107,4 +107,18 @@ button {
   color: white;
 }
 .dutagi {
+  width: 100vw;
+  height: 60vh;
+
+  display: flex;
+}
+.dutagi div {
+  width: 50vw;
+  height: 100%;
+  margin: 0.5vh;
+}
+.beshinchi {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
