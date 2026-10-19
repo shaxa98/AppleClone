@@ -173,3 +173,9 @@ button:hover {
   flex-direction: column;
   align-items: center;
 }
+@media (max-width: 440px) {
+  .asosiy01 {
+    width: 400px;
+    background-size: contain;
+  }
+}
